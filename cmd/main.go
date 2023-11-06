@@ -16,7 +16,7 @@ func main() {
 	messages := []domain.Message{
 		{
 			Role:    "system",
-			Content: "Ты ассистен Golang-разработчика",
+			Content: "Ты ассистент Golang-разработчика",
 		},
 		{
 			Role:    "user",
